@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>西荷商业科技资讯小报</title>
+    <description>每日精选商业科技资讯，关注 26 位 AI 大佬动态和观点，特别关注大模型、AI 创投、技术突破等领域。</description>
+    <link>https://feishu.cn</link>
+    <atom:link href="https://feishu.cn/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>zh-CN</language>
+    <managingEditor>达西 (darcy@example.com)</managingEditor>
+    <webMaster>达西 (darcy@example.com)</webMaster>
+    <copyright>© 2026 西荷商业科技资讯小报</copyright>
+    <lastBuildDate>Tue, 31 Mar 2026 00:00:00 GMT</lastBuildDate>
+    <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+    <generator>OpenClaw Tech-Biz Digest Generator</generator>
+    
+    <item>
+      <title><![CDATA[科技商业日报 - 2026年3月31日]]></title>
+      <link>https://feishu.cn</link>
+      <description><![CDATA[# 科技商业日报 - 2026年3月31日<br/>**日期：2026年3月31日（周二）**
+**编辑：达西**<br/>---<br/>## 🚀 今日热点<br/>1. **[贵州茅台时隔两年再涨价](https://www.huxiu.com/article/4846736.html)**  
+   茅台官方零售价时隔八年后首次上调，向市场展示其定价权肌肉，引发白酒行业连锁反应。<br/>2. **[OpenAI关闭Sora引发行业震动](https://techcrunch.com/2026/03/29/why-openai-really-shut-down-sora/)**  
+   OpenAI正式关闭Sora视频生成工具，团队被重新分配到其他项目，引发AI视频领域格局变动。<br/>3. **[前Coatue合伙人募资6500万美元创立AI Agent公司](https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/)**  
+   种子轮即获巨额融资，显示资本市场对AI Agent赛道的狂热追捧。<br/>4. **[礼来27.5亿美元押注英矽智能](https://www.geekpark.net/news/361913)**  
+   制药业最保守的资金开始流向AI制药，标志着AI制药"GPT时刻"可能到来。<br/>5. **[英伟达黄仁勋喊出"推理拐点"](https://www.pingwest.com/a/312449)**  
+   边缘推理机会窗口正在打开，推理计算或成AI下一个爆发点。<br/>---<br/>## 🤖 AI与科技<br/>### 大模型与AI应用<br/>- **[Anthropic付费用户量激增](https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/)**  
+  Claude在付费消费者中的受欢迎程度正在飙升，挑战ChatGPT市场地位。<br/>- **[美团加速AI进入"物理世界"](https://www.pingwest.com/a/312539)**  
+  投资全链路AI基础设施，本地生活成为物理AI时代的入场券。<br/>- **[阿里发布Qwen3.5-Omni多模态模型](https://www.pingwest.com/w/312579)**  
+  多模态能力超越Gemini-3.1 Pro，中国大模型持续追赶。<br/>- **[中国医生"不信AI"的死结待解](https://www.geekpark.net/news/361912)**  
+  当AI医疗从"能查"走向"可信"，变革才算真正开始。<br/>- **[AI冲击之下，年轻人与高学历女性更受伤](https://www.huxiu.com/article/4846428.html)**  
+  研究显示AI对不同群体的就业影响存在显著差异。<br/>### 硬件与芯片<br/>- **[AI芯片初创公司Rebellions融资4亿美元](https://techcrunch.com/2026/03/30/ai-chip-startup-rebellions-raises-400-million-at-2-3b-valuation-in-pre-ipo-round/)**  
+  估值达23亿美元，Pre-IPO轮融资显示AI芯片赛道热度不减。<br/>- **[Starcloud募资1.7亿美元建设太空数据中心](https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/)**  
+  将数据中心送入太空，探索AI算力新边界。<br/>- **[Mistral AI募资8.3亿欧元建设巴黎数据中心](https://techcrunch.com/2026/03/30/mistral-ai-raises-830m-in-debt-to-set-up-a-data-center-near-paris/)**  
+  欧洲AI巨头加速基础设施建设。<br/>### 安全与监管<br/>- **[苹果将隐藏用户邮箱地址](https://techcrunch.com/2026/03/30/apple-will-hide-your-email-address-from-apps-and-websites-but-not-cops/)**  
+  新隐私功能保护用户免受应用和网站追踪，但执法机构仍可获取。<br/>- **[欧盟委员会确认遭网络攻击](https://techcrunch.com/2026/03/27/european-commission-confirms-cyberattack-after-hackers-claim-data-breach/)**  
+  黑客声称窃取敏感数据，网络安全威胁持续升级。<br/>- **[伊朗黑客声称入侵FBI局长私人邮箱](https://techcrunch.com/2026/03/27/iranian-hackers-claim-breach-of-fbi-director-kash-patels-personal-email-account/)**  
+  网络战与国际冲突交织，安全形势愈发复杂。<br/>---<br/>## 💼 商业与创投<br/>### 投融资动态<br/>- **[Harvey确认110亿美元估值](https://techcrunch.com/2026/03/25/harvey-confirms-11b-valuation-sequoia-triples-down/)**  
+  红杉资本三倍加注，AI法律科技独角兽诞生。<br/>- **[ScaleOps融资1.3亿美元](https://techcrunch.com/2026/03/30/scaleops-130m-series-c-kubernetes-efficiency-ai-demand-funding/)**  
+  提升AI计算效率，应对算力需求激增。<br/>- **[Qodo融资7000万美元](https://techcrunch.com/2026/03/30/qodo-bets-on-code-verification-as-ai-coding-scales-raises-70m/)**  
+  押注代码验证赛道，AI编程时代的"安全网"。<br/>- **[Glimpse融资3500万美元](https://techcrunch.com/2026/03/25/a16z-backed-glimpse-raises-new-funds-accelerates-dispute-tracking-automation-for-cpg-brands/)**  
+  a16z领投，消费品品牌纠纷追踪自动化。<br/>- **[Arinna融资400万美元](https://techcrunch.com/2026/03/25/arinna-4-million-seed-round-solar-energy-space-power-problem/)**  
+  解决太空能源问题，太阳能技术获资本青睐。<br/>### 公司动态<br/>- **[Meta开始在Instagram测试付费订阅](https://techcrunch.com/2026/03/30/meta-starts-testing-a-premium-subscription-on-instagram/)**  
+  社交平台探索新商业模式，付费墙时代来临？<br/>- **[Uber收购柏林初创公司Blacklane](https://techcrunch.com/2026/03/30/uber-is-buying-berlin-startup-blacklane-to-bolster-its-elite-offering/)**  
+  强化高端出行服务，布局豪华市场。<br/>- **[特斯拉与SpaceX或于明年合并](https://www.geekpark.net/news/361836)**  
+  马斯克商业帝国整合传闻再起。<br/>- **[曹操出行2025年成绩单出炉](https://www.pingwest.com/a/312544)**  
+  首次调整后Q4盈利，全年营收同比大增38%。<br/>### 行业趋势<br/>- **[折叠版iPhone金秋发布](https://www.geekpark.net/news/361844)**  
+  苹果试图通过发放奖金阻止iPhone设计工程师跳槽至OpenAI。<br/>- **[内存涨价潮或将结束](https://www.huxiu.com/article/4846627.html)**  
+  但分析师认为"最痛苦的时刻还没来"。<br/>- **[固态电池产业化加速](https://www.huxiu.com/article/4846751.html)**  
+  但专家提醒技术成熟度仍待验证。<br/>---<br/>## 📊 市场与数据<br/>- **[光纤招标价格4个月上涨100%+](https://www.huxiu.com/article/4846703.html)**  
+  供应链紧张推动通信基础设施成本飙升。<br/>- **[3月PMI采购经理指数发布](https://www.huxiu.com/article/4846750.html)**  
+  环保上市公司5年复盘显示市值滑落与财务阵痛。<br/>- **[地方附加税改革提上日程](https://www.huxiu.com/article/4846605.html)**  
+  新税种如何开征引发市场关注。<br/>- **[美股IPO市场回暖信号](https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/)**  
+  软银400亿美元贷款或预示OpenAI 2026年IPO。<br/>- **[Y Combinator W26 Demo Day盘点](https://techcrunch.com/2026/03/26/16-of-the-most-interesting-startups-from-yc-w26-demo-day/)**  
+  从月球酒店到 cattle herding，16家最有趣初创公司出炉。<br/>---<br/>## 🌍 国际与安全<br/>### 地缘政治<br/>- **[特朗普欲于4月6日前与伊朗达协议](https://www.huxiu.com/article/4846734.html)**  
+  中东局势持续紧张，能源市场波动加剧。<br/>- **[美国现已成为"流氓超级大国"](https://www.huxiu.com/article/4846734.html)**  
+  国际秩序重构背景下的大国博弈。<br/>- **[AI研究与地缘政治难以分离](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/)**  
+  中美AI研究开始沿着地缘政治线分裂。<br/>### 网络安全<br/>- **[使用VPN可能使你遭受NSA监控](https://www.wired.com/story/using-a-vpn-may-subject-you-to-nsa-spying/)**  
+  隐私工具反而成为监控入口，网络安全悖论显现。<br/>- **[苹果称使用锁定模式的用户未被间谍软件入侵](https://techcrunch.com/2026/03/27/apple-says-no-one-using-lockdown-mode-has-been-hacked-with-spyware/)**  
+  高安全模式有效性得到验证。<br/>- **[200亿美元加密骗局市场面临政府打击](https://www.wired.com/story/20-billion-xinbi-guarantee-uk-sanctions/)**  
+  英国制裁揭开"信必担保"骗局面纱。<br/>---<br/>## 📖 深度阅读<br/>1. **[为什么OpenAI必须砍掉Sora](https://www.geekpark.net/news/361633)**  
+   深度解析OpenAI战略调整背后的逻辑，视频生成赛道格局生变。<br/>2. **[对话周亚辉：OpenAI弃掉的赛道，刚好成了中国公司的天下](https://www.huxiu.com/article/4846540.html)**  
+   昆仑万维创始人谈AI创业：每个月不烧1亿研发，进不了第一梯队。<br/>3. **[一位网约车司机之死：被骗网贷、被催债和致命的绝望](https://www.huxiu.com/article/4846553.html)**  
+   深度调查报道，揭示零工经济背后的金融陷阱。<br/>4. **[美国加速AI军事化，硅谷的华人人才怎么办？](https://www.huxiu.com/article/4846635.html)**  
+   地缘政治与人才流动的冲突，科技人员的身份困境。<br/>5. **[Arm CEO坚持市场需要新CPU，但可能激怒所有人](https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/)**  
+   芯片架构巨头的新战略引发行业震动。<br/>---<br/>**数据来源：** 虎嗅、TechCrunch、品玩、极客公园、Wired等<br/>**免责声明：** 本简报仅供参考，不构成投资建议。<br/>---<br/>*共收录 30+ 条精选资讯，覆盖AI、创投、国际市场等多个领域*
+]]></description>
+      <pubDate>Tue, 31 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">2026-03-31</guid>
+      <author>达西 (darcy@example.com)</author>
+    </item>
+  </channel>
+</rss>
